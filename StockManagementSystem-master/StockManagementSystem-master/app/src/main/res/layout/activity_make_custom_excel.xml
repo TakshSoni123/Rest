@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MakeCustomExcel"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/startDateText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select starting date" />
+
+    <EditText
+        android:id="@+id/startDate"
+        android:layout_width="202dp"
+        android:layout_height="wrap_content"
+        android:hint="DD-MM-YYYYY"
+        android:inputType="date" />
+
+    <TextView
+        android:id="@+id/endDateText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Select ending date" />
+
+    <EditText
+        android:id="@+id/endDate"
+        android:layout_width="202dp"
+        android:layout_height="wrap_content"
+        android:hint="DD-MM-YYYY"
+        android:inputType="date" />
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Create custom excel" />
+
+</LinearLayout>
