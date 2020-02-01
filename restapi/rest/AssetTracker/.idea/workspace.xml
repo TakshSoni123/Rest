@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a1954f8-8499-4be7-b79c-99feea2e7b8f" name="Default Changelist" comment="initial">
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/.idea/Bermuda_Tourism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/fontAwesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/css/tooplate-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/01-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/01-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/02-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/02-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/03-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/03-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/04-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/04-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/05-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/05-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/06-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/06-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/07-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/07-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/08-big-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/08-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/first-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/first-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/first-section-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/fivth-section-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/fourth-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/fourth-section-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/heading-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/left-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/right-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/second-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/second-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/sixth-section-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/third-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/third-item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/img/third-section-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/js/vendor/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/js/vendor/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/js/vendor/jquery-1.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dev/Bermuda_Tourism/static/js/vendor/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Healthcare-master/Healthcare-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Healthcare-master/Healthcare-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/Adapter/SingleSelectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/EditData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/Fragments/EditPartyListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/Fragments/EditProductDescFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/Helper/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/NewQuery/SelectParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/java/com/example/sachinindustries/QueryDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/layout/activity_edit_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/layout/fragment_edit_party_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/layout/fragment_edit_product_desc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/menu/menu_edit_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/menu/menu_new_query.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/libs/jxl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/androidTest/java/com/taksh/android/stockmanagementsystem/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/AddParty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/AddProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/AddVariant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/DBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/DateConvertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/EditOrDeleteParty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/EditOrDeleteProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/EditOrDeleteVariant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/EditPartyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/EditProductDescription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/EditQueryData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/MakeCustomExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/QueryDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/SelectNumberOfSets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/SelectPartyName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/SelectProdctType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/SelectSetSizes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/SelectSubProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/java/com/taksh/android/stockmanagementsystem/ShowPreview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/drawable/bg_key.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_add_party.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_add_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_add_variant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_edit_or_delete_party.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_edit_or_delete_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_edit_or_delete_variant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_edit_party_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SachinIndustries/app/src/main/res/layout/activity_select_party.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_edit_product_description.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_edit_query_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_make_custom_excel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_select_number_of_sets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_select_party_name.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_select_prodct_type.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_select_set_sizes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_select_sub_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/activity_show_preview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/add_new_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/layout/partyname_listview_items.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StockManagementSystem-master/StockManagementSystem-master/app/src/test/java/com/taksh/android/stockmanagementsystem/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RawMaterial/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medicine/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AssetTracker/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#636#668#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medicine/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medicine/serializer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medicine/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AssetTracker/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rawMaterials/admin.py" />
+        <option value="$PROJECT_DIR$/rawMaterials/models.py" />
+        <option value="$PROJECT_DIR$/RawMaterial/admin.py" />
+        <option value="$PROJECT_DIR$/RawMaterial/urls.py" />
+        <option value="$PROJECT_DIR$/RawMaterial/views.py" />
+        <option value="$PROJECT_DIR$/RawMaterial/serializer.py" />
+        <option value="$PROJECT_DIR$/RawMaterial/models.py" />
+        <option value="$PROJECT_DIR$/Medicine/models.py" />
+        <option value="$PROJECT_DIR$/Medicine/admin.py" />
+        <option value="$PROJECT_DIR$/Medicine/serializer.py" />
+        <option value="$PROJECT_DIR$/Medicine/urls.py" />
+        <option value="$PROJECT_DIR$/Medicine/views.py" />
+        <option value="$PROJECT_DIR$/AssetTracker/settings.py" />
+        <option value="$PROJECT_DIR$/AssetTracker/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/AssetTracker.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="140" />
+    <option name="y" value="25" />
+    <option name="width" value="725" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AssetTracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssetTracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a1954f8-8499-4be7-b79c-99feea2e7b8f" name="Default Changelist" comment="" />
+      <created>1580564303156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580564303156</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1580581405623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580581405623</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1580582410610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580582410610</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4993395" weight="0.21216407" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5006605" side_tool="true" weight="0.21216407" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="946" selection-start-line="946" selection-end-line="946" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/django/core/management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rawMaterials/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rawMaterials/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RawMaterial/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medicine/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RawMaterial/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RawMaterial/serializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RawMaterial/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RawMaterial/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medicine/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medicine/serializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medicine/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssetTracker/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medicine/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssetTracker/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#636#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
