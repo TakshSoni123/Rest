@@ -1,0 +1,40 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashbboard</title>
+</head>
+<body style="margin-left:7%; background: #3399ff;
+        padding: 20px;">
+
+    <h style="font-size:80px; text-shadow:2px 0 0 #000; color:white;" >List of recent tweets and analysis</h>
+    <br>
+    <div style="margin-top:20px; margin-bottom:20px;">
+        <img style="border:2px solid black; border-radius:10px; margin:5px;" src="{% static 'chart1.png' %}" height="300" width="auto">
+        <img style="border:2px solid black; border-radius:10px;  margin:5px; " src="{% static 'chart2.png' %}" height="300" width="auto">
+        <img style="border:2px solid black; border-radius:10px;  margin:5px; " src="{% static 'chart3.png' %}" height="300" width="auto">
+    </div>
+            {% for i in tweets %}
+            <div style="height:auto;">
+                <div style="width:80%; height:auto; float:left; background: #cce5ff;
+             margin: 5px; border-radius:10px; padding:15px;  border:2px solid black;">
+                    <p style="padding-left:30px; margin-top:5px; margin-bottom:5px; font-size:28px;"><b>Name</b></p>
+                    <p style="padding:30px; font-size:28px; display:inline;">{{ i.0  }}</p>
+                </div>
+                <div style="width:10%; float:right; background: #cce5ff;
+             margin: 5px; margin-right:110px; padding-left:20px; padding-top:8px; padding-bottom:8px; border:2px solid black;  border-radius:10px;">
+                    {% if i.1 == 'Bully' %}
+                    <p style="font-size:30px; color:red; display:inline; padding-left:30px;">{{ i.1 }}</p>
+                    {% else %}
+                    <p style="font-size:30px; color:green; display:inline; padding-left:30px;">{{ i.1 }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+
+<!--    <h>Dashboard</h>-->
+
+</body>
+</html>
